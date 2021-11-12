@@ -1,1 +1,1 @@
-# Data-science. Some Python and data-analysis.
+# Folder for data science, Python and data analysis.
